@@ -1,17 +1,17 @@
 const CONFIG = {
     titleWeb: "Angel",
-    introTitle: 'Bảo Ngọc',
-    introDesc: `Nói chiện mầy hài vl`,
+    introTitle: 'Quyên ơi',
+    introDesc: `Có bấc ngờ này`,
     btnIntro: '^^Oki^^',
-    title: 'Chúa hề',
-    desc: 'Ngọc trả tiền ăn nhẩy ',
-    btnYes: 'Đồng ý <33',
-    btnNo: 'Không nha :3',
-    question: 'Đi ăn buffet nhá',
+    title: 'Sắp noel rồi',
+    desc: 'Đi ăn 1 bữa nha ',
+    btnYes: '100% Đồng ý <33',
+    btnNo: 'Lạnh lùng nói không :3',
+    question: 'Đi ăn dimsum nhá',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Đi thì đi mà không đi thì đi <33333333',
+    reply: 'OK, mình mời luôn <33333333',
     mess: 'Mình biết mà. Yêu bạn',
-    messDesc: 'Hôm sau mầy qua đón đi chơi nha.',
+    messDesc: 'Hôm sau mầy qua đón tao đi chơi nhá.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/messages/t/100005723373827' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'http://haochidimsum.vn/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
